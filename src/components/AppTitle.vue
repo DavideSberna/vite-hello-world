@@ -1,6 +1,6 @@
 <template>
     <div class="bg-nav p-5">
-        <nav class="container d-flex j-content-between align-center p-3">
+        <div class="container d-flex j-content-between align-center p-3">
             <div>
                 <img class="block w-img" src="../assets/img/boolean-logo.png" alt="logo">
             </div>
@@ -11,7 +11,7 @@
                     <li>Product</li>
                 </ul>
             </div>
-        </nav>
+        </div>
     </div>
 </template>
 
